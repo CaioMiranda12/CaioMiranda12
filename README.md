@@ -11,7 +11,7 @@
  <br>
  Contato:
  <br>
- <a href="https://www.instagram.com/caioclm.04/">
+ <a target="_blank" href="https://www.instagram.com/caioclm.04/">
  <img width="60px" height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCJVtcHhlj5sb0mr8YGEcEpqynAqSmxzHUg&usqp=CAU">
- <a href="https://www.linkedin.com/in/caio-miranda-ofc/"/>
+ <a target="_blank" href="https://www.linkedin.com/in/caio-miranda-ofc/"/>
  <img width="60px" height="60px" src="https://www.iconsdb.com/icons/preview/red/linkedin-6-xxl.png" alt="logo-linkedin">
