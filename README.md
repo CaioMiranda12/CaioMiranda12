@@ -1,11 +1,12 @@
-### Hi there 👋
+### Seja bem vindo 👋
 
 
-:bell: Eu sou Caio Miranda , 18 anos, sou programador FullStack, atualmente estou aprendendo e desenvolvendo projetos com:
-<br>
-<br>
-  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="caixa-html">
-  - <img alt="caixa-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+:bell: <p>Desenvolvedor Full Stack, especializado em React e Node JS. <p />
+<p>Realizei muitos projetos significativos, incluindo o desenvolvimento de um website de hambúrgueres, um gestor financeiro, um website de previsão meteorológica e a implementação de um conversor de moeda em tempo real utilizando uma API pública.
+
+Habilidades Técnicas:
+- React JS, Typescript, HTML, CSS, Javascript, Node JS, PostgreSQL, MongoDB, Vite, Git, Github</p>
+
   
  [![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioMiranda12&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  <br>
