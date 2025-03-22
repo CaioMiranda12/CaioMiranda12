@@ -5,7 +5,7 @@
 <p>Realizei muitos projetos significativos, incluindo o desenvolvimento de um website de hambúrgueres, um gestor financeiro, um website de previsão meteorológica e a implementação de um conversor de moeda em tempo real utilizando uma API pública.
 
 Habilidades Técnicas:
-- React JS, Typescript, HTML, CSS, Javascript, Node JS, PostgreSQL, MongoDB, Vite, Git, Github</p>
+- React JS, Next.js, Typescript, HTML, CSS, Javascript, Node JS, Express, Prisma, Nest JS, PostgreSQL, MongoDB, Vite, Git, Github</p>
 
   
  [![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioMiranda12&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
