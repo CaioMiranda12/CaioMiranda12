@@ -6,7 +6,7 @@
   
 <br/>
 
-<h2>Sobre mim</h2>
+<h2>Minhas redes</h2>
 <a href="https://www.linkedin.com/in/caio-miranda-ofc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/caioclm.04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://caio-apresentation.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-1962B1?style=for-the-badge&logo=rocket&logoColor=white"></a> 
@@ -15,7 +15,7 @@
 </a> 
 <br/><br/><br/>
 
-Habilidades Técnicas:
+<h2>🚀 Minhas Skills</h2>
 
 ## Front-end
 <img src="https://skillicons.dev/icons?i=react,vite,next,typescript,javascript,html,css,tailwind,styledcomponents,materialui,git,firebase,figma" />
