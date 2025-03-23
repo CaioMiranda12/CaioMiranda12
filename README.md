@@ -1,4 +1,4 @@
-# Seja bem vindo 👋
+# Seja bem-vindo 👋
 
 
 <p>Desenvolvedor Full Stack, especializado em React e Node JS. <p />
@@ -16,14 +16,18 @@
 <br/><br/><br/>
 
 Habilidades Técnicas:
-- React JS, Next.js, Typescript, HTML, CSS, Javascript, Node JS, Express, Prisma, Nest JS, PostgreSQL, MongoDB, Vite, Git, Github</p>
+
+## Front-end
+<img src="https://skillicons.dev/icons?i=react,vite,next,typescript,javascript,html,css,tailwind,styledcomponents,materialui,git,firebase,figma" />
+
+<br />
+
+### Back-end
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,sequelize,postgresql,mongodb,postman,nestjs,prisma" />
+
+<br />
 
   
  [![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioMiranda12&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- <br>
- Contato:
- <br>
- <a href="https://www.instagram.com/caioclm.04/">
- <img width="60px" height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCJVtcHhlj5sb0mr8YGEcEpqynAqSmxzHUg&usqp=CAU">
- <a target="_blank" href="https://www.linkedin.com/in/caio-miranda-ofc/"/>
- <img width="60px" height="60px" src="https://www.iconsdb.com/icons/preview/red/linkedin-6-xxl.png" alt="logo-linkedin">
+
+
