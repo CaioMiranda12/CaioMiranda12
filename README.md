@@ -1,7 +1,7 @@
 # Seja bem-vindo 👋
 
 
-<p>Desenvolvedor Full Stack, especializado em React e Node JS. <p />
+<p>Olá, me chamo Caio Miranda, sou um Desenvolvedor Full Stack, especializado em React e Node JS. <p />
 <p>Realizei muitos projetos significativos, incluindo o desenvolvimento de um website de hambúrgueres, um gestor financeiro, um website de previsão meteorológica e a implementação de um conversor de moeda em tempo real utilizando uma API pública.
   
 <br/>
